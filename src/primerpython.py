@@ -6,4 +6,4 @@ __author__ = "JO-RArmas"
 __date__ = "$29-sep-2015 23:09:28$"
 
 if __name__ == "__main__":
-    print "Hello World"
+    print "Hola planeta tierra"
